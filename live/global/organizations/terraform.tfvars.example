@@ -1,0 +1,4 @@
+security_email   = "exemple+aws-security@exemple.com"
+logarchive_email = "exemple+aws-logarchive@exemple.com"
+workloads_email  = "exemple+aws-workloads@exemple.com"
+network_email    = "exemple+aws-network@exemple.com"
