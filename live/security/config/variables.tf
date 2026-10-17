@@ -7,5 +7,5 @@ variable "aws_region" {
 variable "bucket_name" {
   type        = string
   description = "Nom du bucket S3 des logs Config (unique dans le monde)"
-  default     = "jeremie-lz-config-logs"
+  default = "jeremie-lz-config-logs-723370474199"
 }
